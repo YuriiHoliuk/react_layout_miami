@@ -4,7 +4,7 @@ import Nav from '../Nav/Nav';
 
 export const Hero = () => {
   return (
-    <div className="hero" style={{ backgroundImage: 'url(images/header.png)' }}>
+    <div className="hero">
       <header className="header">
         <div className="container container--header">
           <a href="/" className="header__phone header__link">8 800 500 50 50</a>
