@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/react_layout_miami/static/css/main.d065a22e.chunk.css",
-    "main.js": "/react_layout_miami/static/js/main.d1fcb2af.chunk.js",
-    "main.js.map": "/react_layout_miami/static/js/main.d1fcb2af.chunk.js.map",
+    "main.css": "/react_layout_miami/static/css/main.73198a5a.chunk.css",
+    "main.js": "/react_layout_miami/static/js/main.48f8498a.chunk.js",
+    "main.js.map": "/react_layout_miami/static/js/main.48f8498a.chunk.js.map",
     "runtime~main.js": "/react_layout_miami/static/js/runtime~main.59dfb4f6.js",
     "runtime~main.js.map": "/react_layout_miami/static/js/runtime~main.59dfb4f6.js.map",
     "static/js/2.ec295295.chunk.js": "/react_layout_miami/static/js/2.ec295295.chunk.js",
     "static/js/2.ec295295.chunk.js.map": "/react_layout_miami/static/js/2.ec295295.chunk.js.map",
     "index.html": "/react_layout_miami/index.html",
-    "precache-manifest.f2d224c31323097ab544788dd8ab4da6.js": "/react_layout_miami/precache-manifest.f2d224c31323097ab544788dd8ab4da6.js",
+    "precache-manifest.be11b8be7b0c3cd8dda2739e1da3bd16.js": "/react_layout_miami/precache-manifest.be11b8be7b0c3cd8dda2739e1da3bd16.js",
     "service-worker.js": "/react_layout_miami/service-worker.js",
-    "static/css/main.d065a22e.chunk.css.map": "/react_layout_miami/static/css/main.d065a22e.chunk.css.map"
+    "static/css/main.73198a5a.chunk.css.map": "/react_layout_miami/static/css/main.73198a5a.chunk.css.map",
+    "static/media/Hero.scss": "/react_layout_miami/static/media/header.4f75d126.png"
   }
 }
